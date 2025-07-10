@@ -65,6 +65,7 @@ function setupGallery() {
                     const img = document.createElement('img');
                     img.src = `/uploads/${image.filename}`;
                     img.alt = image.comment;
+                    img.loading = 'lazy';
                     
                     const comment = document.createElement('div');
                     comment.className = 'comment';
