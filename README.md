@@ -76,7 +76,16 @@ This project was created with the assistance of:
 
 ## Screenshots
 
-(Add your screenshots here and name them index.png and gallery.png)
+![Upload Page](screenshots/index.png)  
+*The upload interface with camera/file selection and comment field*
+
+![Gallery View](screenshots/gallery.png)  
+*The gallery showing uploaded images with comments and fade effects*
+
+To add your own screenshots:
+1. Take screenshots of your running application
+2. Save them as `screenshots/index.png` and `screenshots/gallery.png`
+3. Make sure they show the key features mentioned above
 
 ## License
 
