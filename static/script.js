@@ -63,7 +63,7 @@ function setupGallery() {
                     item.className = `gallery-item ${image.status}`;
                     
                     const img = document.createElement('img');
-                    img.src = `/uploads/${image.filename}`;
+                    img.src = `/uploads/${encodeURIComponent(image.filename)}`;
                     img.alt = image.comment;
                     img.loading = 'lazy';
                     
