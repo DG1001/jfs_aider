@@ -72,7 +72,7 @@ snappic/
 
 This project was created with the assistance of:
 - [Aider](https://github.com/paul-gauthier/aider) - AI pair programming tool
-- [DeepSeek](https://deepseek.com) - AI coding assistant
+- DeepSeek Chat LLM - AI coding assistant
 
 ## Screenshots
 
